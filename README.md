@@ -2,13 +2,13 @@
 
 ## About
 
-A single page bootstrap template for event management company or wedding agency.
+A single page bootstrap prototype for smart event planner.
 
 <img src="assets/img/screenshot.png" width="400px" />
 
 ## Live Demo
 
-https://eventplanner-template.netlify.app/
+https://walumbe.github.io/EventPlanner.github.io/
 
 ## Built With
 
@@ -29,8 +29,4 @@ List of major frameworks or technology used to build this project.
 - 100% Responsive Layout Design
 - Smooth Scrolling
 
-<!-- LICENSE -->
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
